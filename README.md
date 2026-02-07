@@ -4,7 +4,7 @@
 
 This project is a command line toe tac tic written in python that features an AI opponent using the Minimax algorithm to **always** choose the best move.
 
-The AI enumerates every possible future boeard state, assigns scores based on win / loss / tie outcomes. It then selects the move that maximizes the it's chances of winning.
+The AI enumerates every possible future boared state, assigns scores based on win / loss / tie outcomes. It then selects the move that maximizes the it's chances of winning.
 
 Toe Tac Tic (also known as Misere Tic Tac Toe) has the reverse goal of normal Tic Tac Toe. In Toe Tac Tic, you try to force the opponent into 3 in a row, resulting in a win for you.
 
